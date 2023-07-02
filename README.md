@@ -1,4 +1,6 @@
-# kriya-Robosoccer-2019
+<a>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=2000&pause=500&multiline=true&width=1500&height=80&lines=kriya+Robosoccer+2019" alt="Typing SVG" />
+</a>
 
 During the techfest organized by PSG College of technology in Coimbatore, I participated in the Robosoccer event. Our team was tasked with designing and building a differential drive robot with a paddle mechanism that could dribble the ball and shoot at the goal post.
 
